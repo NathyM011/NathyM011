@@ -1,7 +1,7 @@
-### Olá! Eu sou Nathália Caldonho
+### Olá! Eu sou Nathália Caldonho.
 
 - 💻 - Formada no curso técnico em informática
-- 📚 - Atualmente graduanda em análise e desenvolvimento de sistemas
+- 📚 - Graduanda em análise e desenvolvimento de sistemas
 - 👾 - Estudando: ReactJS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathyM011&show_icons=true&theme=merko)](https://github.com/NathyM011/github-readme-stats)
